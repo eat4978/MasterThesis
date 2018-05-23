@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'mythesis.blg'
+[44] biber-darwin:313> INFO - === Wed May 23, 2018, 10:07:25
+[70] Biber.pm:371> INFO - Reading 'mythesis.bcf'
+[190] Biber.pm:857> INFO - Found 11 citekeys in bib section 0
+[206] Biber.pm:3976> INFO - Processing section 0
+[218] Biber.pm:4136> INFO - Looking for bibtex format file 'thesis_refs.bib' for section 0
+[219] bibtex.pm:1500> INFO - LaTeX decoding ...
+[225] bibtex.pm:1316> INFO - Found BibTeX data source 'thesis_refs.bib'
+[241] Biber.pm:4136> INFO - Looking for bibtex format file '../refs/standard_refs-biber.bib' for section 0
+[244] bibtex.pm:1500> INFO - LaTeX decoding ...
+[265] bibtex.pm:1316> INFO - Found BibTeX data source '../refs/standard_refs-biber.bib'
+[359] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[359] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[359] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[359] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-UK'
+[372] bbl.pm:617> INFO - Writing 'mythesis.bbl' with encoding 'UTF-8'
+[377] bbl.pm:720> INFO - Output to mythesis.bbl
